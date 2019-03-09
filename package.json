@@ -1,0 +1,8 @@
+{
+  "name": "locker-web-reservation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sidisrikk/locker-web-reservation.git",
+  "author": "sidi <s>",
+  "license": "MIT"
+}
